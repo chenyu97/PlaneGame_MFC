@@ -1,0 +1,31 @@
+﻿生成启动时间为 2017/6/14 10:00:39。
+     1>项目“C:\Users\asus\Desktop\DirOfDirs\专业课\高程\HW\课程设计二\superPlane\superPlane\superPlane.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\superPlane.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EnemyBoss.cpp EnemyPlane.cpp MePlane.cpp superPlane.cpp superPlaneView.cpp
+         EnemyBoss.cpp
+         EnemyPlane.cpp
+         MePlane.cpp
+         superPlane.cpp
+         superPlaneView.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asus\Desktop\DirOfDirs\专业课\高程\HW\课程设计二\superPlane\Release\superPlane.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\asus\Desktop\DirOfDirs\专业课\高程\HW\课程设计二\superPlane\Release\superPlane.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asus\Desktop\DirOfDirs\专业课\高程\HW\课程设计二\superPlane\Release\superPlane.lib" /MACHINE:X86 /SAFESEH Release\superPlane.res
+         Release\EnemyBoss.obj
+         Release\EnemyBullet.obj
+         Release\EnemyPlane.obj
+         Release\ExtraElement.obj
+         Release\GameElement.obj
+         Release\MainFrm.obj
+         Release\MeBullet.obj
+         Release\MePlane.obj
+         Release\stdafx.obj
+         Release\superPlane.obj
+         Release\superPlaneDoc.obj
+         Release\superPlaneView.obj
+         正在生成代码
+         已完成代码的生成
+         superPlane.vcxproj -> C:\Users\asus\Desktop\DirOfDirs\专业课\高程\HW\课程设计二\superPlane\Release\superPlane.exe
+     1>已完成生成项目“C:\Users\asus\Desktop\DirOfDirs\专业课\高程\HW\课程设计二\superPlane\superPlane\superPlane.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.66
